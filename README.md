@@ -64,3 +64,10 @@
 - Optimizers in neural networks
 - Convolutional Neural Networks (CNNs)
 - Recurrent Neural Networks (RNNs)
+
+## Included Projects
+- **Diabetes Classification using SVM**
+- **Medical Insurance Cost Prediction using Linear Regression**
+- **Gold Price Prediction using ANN**
+- **Implementation of CNN using Keras and TensorFlow**
+- **Stock Price Prediction using LSTM**
